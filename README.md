@@ -40,10 +40,6 @@ Olá! Me chamo Naelly Vitoria, tenho 21 anos e atualmente estou cursando Sistema
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-
-<br><br>
-
-<!-- Frameworks Frontend -->
 <img 
     align="left" 
     alt="React"
@@ -60,18 +56,6 @@ Olá! Me chamo Naelly Vitoria, tenho 21 anos e atualmente estou cursando Sistema
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-
-<br><br>
-
-<!-- Estilização -->
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
 <img 
     align="left" 
     alt="Bootstrap"
@@ -82,64 +66,61 @@ Olá! Me chamo Naelly Vitoria, tenho 21 anos e atualmente estou cursando Sistema
 />
 <img 
     align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
     alt="SASS" 
     title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-
-<br><br>
-
-<!-- Backend e APIs -->
 <img 
     align="left" 
-    alt="AdonisJS" 
-    title="AdonisJS"
+    alt="ADONIJS" 
+    title="ADONIJS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/adonisjs/adonisjs-original.svg" 
 />
 <img 
     align="left" 
-    alt="NestJS" 
-    title="NestJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" 
-/>
-
-<br><br>
-
-<!-- Banco de Dados -->
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
-
-<br><br>
-
-<!-- Ferramentas e DevOps -->
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
+    alt="DOCKER" 
+    title="DOCKER"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" 
 />
+<img 
+    align="left" 
+    alt="POSTGRESQL" 
+    title="POSTGRESQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="EXPRESS" 
+    title="EXPRESS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NESTJS" 
+    title="NESTJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -148,9 +129,6 @@ Olá! Me chamo Naelly Vitoria, tenho 21 anos e atualmente estou cursando Sistema
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br><br>
-
 <br/>
 <br/>
 
