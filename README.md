@@ -105,6 +105,14 @@ Olá! Me chamo Naelly Vitoria, tenho 21 anos e atualmente estou cursando Sistema
 />
 <img 
     align="left" 
+    alt="EXPRESS" 
+    title="EXPRESS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" 
+/>
+<img 
+    align="left" 
     alt="NESTJS" 
     title="NESTJS"
     width="30px" 
