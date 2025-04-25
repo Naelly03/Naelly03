@@ -123,6 +123,15 @@ Olá! Me chamo Naelly Vitoria, tenho 21 anos e atualmente estou cursando Sistema
 
 <img 
     align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jetbrains.com%2Fguide%2Fdotnet%2Ftechnologies%2Fcsharp%2F&psig=AOvVaw0jTar0znO-C-Xgi1NABWzN&ust=1745683286746000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDY7ZPH84wDFQAAAAAdAAAAABAE" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
