@@ -66,14 +66,6 @@ Olá! Me chamo Naelly Vitoria, tenho 21 anos e atualmente estou cursando Sistema
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
     alt="DOCKER" 
     title="DOCKER"
     width="30px" 
@@ -90,11 +82,11 @@ Olá! Me chamo Naelly Vitoria, tenho 21 anos e atualmente estou cursando Sistema
 />
 <img 
     align="left" 
-    alt="EXPRESS" 
-    title="EXPRESS"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" 
+    src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" 
 />
 <img 
     align="left" 
