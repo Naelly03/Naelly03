@@ -112,10 +112,8 @@ Olá! Me chamo Naelly Vitoria, tenho 21 anos e atualmente estou cursando Sistema
 
 </p>
 
-<br/>
-<br/>
-
 ### 📫 Me encontre
-🔹 LinkedIn: www.linkedin.com/in/naelly-silva-34613a20b  
-🔹 Portfólio: https://portifolio-one-ashen.vercel.app/  
-🔹 Email: naellyvitoria8@gmail.com
+
+- 🔹 LinkedIn: [www.linkedin.com/in/naelly-silva-34613a20b](https://www.linkedin.com/in/naelly-silva-34613a20b)
+- 🔹 Portfólio: [https://portifolio-one-ashen.vercel.app](https://portifolio-one-ashen.vercel.app/)
+- 🔹 Email: [naellyvitoria8@gmail.com](mailto:naellyvitoria8@gmail.com)
