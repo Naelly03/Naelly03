@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Full-Stack`**
 
-Olá! Me chamo Naelly Vitoria, tenho 21 anos e atualmente estou cursando Sistemas para Internet no IFMA Campus Timon - MA. Sou apaixonada por programação e desenvolvimento de software, especialmente na criação de aplicações web.
+Olá! Me chamo Naelly Vitoria, tenho 21 anos e atualmente estou cursando Sistemas para Internet no IFMA Campus Timon - MA.
 ---
 
 ### 🤖 Linguagens e Tecnologias
