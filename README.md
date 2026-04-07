@@ -21,13 +21,7 @@ Desenvolvedora focada em frontend com experiência em projetos reais — de SaaS
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
- 
-### 📊 Estatísticas
- 
-<img src="https://streak-stats.demolab.com?user=Naelly03&theme=tokyonight&locale=pt_BR&hide_border=true" height="180"/>
- 
----
- 
+
 ### 📫 Contato
  
 - 💼 LinkedIn: [linkedin.com/in/naelly-silva-34613a20b](https://www.linkedin.com/in/naelly-silva-34613a20b)
